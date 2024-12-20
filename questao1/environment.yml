@@ -1,0 +1,9 @@
+name: venv1
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - xgboost
+  - scikit-learn
