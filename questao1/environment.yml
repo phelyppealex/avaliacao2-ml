@@ -7,3 +7,4 @@ dependencies:
   - matplotlib
   - xgboost
   - scikit-learn
+  - flask
