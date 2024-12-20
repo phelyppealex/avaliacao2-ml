@@ -1,0 +1,15 @@
+name: venv1
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - xgboost
+<<<<<<< HEAD:environment.yml
+  - scikit-learn
+  - flask
+  - seaborn
+=======
+  - scikit-learn
+>>>>>>> parent of b3bfaba (atualização environment.yml):questao1/environment.yml
